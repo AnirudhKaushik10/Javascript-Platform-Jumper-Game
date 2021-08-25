@@ -1,0 +1,22 @@
+.grid {
+    width : 400px;
+    height : 600px;
+    background-image: url(img/bg.jpg);
+    position: relative;
+}
+
+.jumper {
+    width : 60px;
+    height: 80px;
+    background-image: url(img/Jumper_front.png);
+    background-size: cover;
+    position: absolute;
+}
+
+.platform {
+    width : 85px;
+    height : 15px;
+    background-image: url(img/Brown\ Off.png);
+    background-size: cover;
+    position: absolute;
+}
