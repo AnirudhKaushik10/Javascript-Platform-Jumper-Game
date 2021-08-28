@@ -3,6 +3,7 @@
     height : 600px;
     background-image: url(img/bg.jpg);
     position: relative;
+    margin: auto;
 }
 
 .jumper {

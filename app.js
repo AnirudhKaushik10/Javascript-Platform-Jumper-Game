@@ -156,6 +156,7 @@ document.addEventListener('DOMContentLoaded', () => {
         clearInterval(leftTimerId)
         clearInterval(rightTimerId)
         grid.innerHTML = score
+        window.location = 'LandingPage.html'
     }
 
     function start() {

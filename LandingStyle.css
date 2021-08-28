@@ -1,0 +1,35 @@
+.grid {
+    width : 400px;
+    height : 600px;
+    background-image: url(img/bg.jpg);
+    position: relative;
+    margin: auto;
+}
+
+.Startbutton {
+    background-color: mediumaquamarine;
+    width: 200px;
+    font-size: 20px;
+    padding: 10px;
+    border-radius: 5px;
+    border: 3px solid yellow;
+    color: white;
+    text-align: center;
+    top : 240px;
+    right : 100px;
+    position: absolute;
+}
+
+.Backbutton {
+    background-color: mediumaquamarine;
+    width: 200px;
+    font-size: 20px;
+    padding: 10px;
+    border-radius: 5px;
+    border: 3px solid yellow;
+    color: white;
+    text-align: center;
+    top : 340px;
+    right : 100px;
+    position: absolute;
+}
